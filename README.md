@@ -115,6 +115,6 @@ A C-based terminal app to manage basketball stats.
 ## 📬 Get in Touch  
 
 - **Email**: *mustakim.h.ferdoushi@gmail.com*  
-- **LinkedIn**: *(https://www.linkedin.com/in/mustakim-hossain-ferdoushi-77ba02282/)*  
+- **LinkedIn**: *https://www.linkedin.com/in/mustakim-hossain-ferdoushi-77ba02282/*  
 
 Open to collaboration, internships, and data challenges 🚀  
