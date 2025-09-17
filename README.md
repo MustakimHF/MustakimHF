@@ -13,10 +13,11 @@ A full **ETL pipeline** for Twitch data:
 - Extracts streams + games via the Twitch API  
 - Cleans, transforms, and enriches with features (time of day, weekday, game join)  
 - Loads into SQLite for querying and visualisation  
-- Includes **sanity checks** + BI-ready CSV outputs  
+- Includes **sanity checks** + BI-ready CSV outputs
 
 **Tech**: Python, Pandas, SQL, Airflow (for orchestration)  
 
+Project repository:
 ---
 
 ### 🎬 Content Strategy Insights (TMDB)  
@@ -28,6 +29,8 @@ Explores **viewer trends** in films & TV using the TMDB API.
 
 **Tech**: Python, Pandas, Matplotlib, Seaborn, TextBlob  
 
+Project repository:https://github.com/MustakimHF/Content-Strategy-Insights
+
 ---
 
 ### 📊 Marketing Business Dashboards  
@@ -37,6 +40,8 @@ Interactive dashboards for campaign analysis.
 - Delivered in **Power BI + Tableau**, fed from a Python ETL pipeline  
 
 **Tech**: Python, DuckDB, Power BI, Tableau  
+
+Project repository:https://github.com/MustakimHF/Marketing-Business-Dashboards
 
 ---
 
@@ -48,6 +53,8 @@ Simulates a **real marketing experiment** on the Olist dataset.
 - Outputs CSVs for BI and visualises conversion rates  
 
 **Tech**: Python, Pandas, Statsmodels, Seaborn, Power BI/Tableau  
+
+Project repository:https://github.com/MustakimHF/AB-Testing-OLIST
 
 ---
 
@@ -61,6 +68,8 @@ Predicts **customer churn** using the Telco dataset.
 
 **Tech**: Python, Scikit-learn, Pandas, Joblib  
 
+Project repository:https://github.com/MustakimHF/telco-churn-ml
+
 ---
 
 ### 🧠 Neural Network Classifier  
@@ -71,6 +80,8 @@ A simple **TensorFlow/Keras** neural network to classify synthetic data.
 - Visualises training history  
 
 **Tech**: TensorFlow, Keras, Scikit-learn, Matplotlib  
+
+Project repository:https://github.com/MustakimHF/Neural-Network
 
 ---
 
@@ -83,6 +94,8 @@ A **Python + Dash app** for budgeting and expense tracking.
 
 **Tech**: Python, Pandas, Dash, Plotly  
 
+Project repository:https://github.com/MustakimHF/Personal-Finance-Tracker
+
 ---
 
 ### 🏀 Basketball Player Performance Analyzer (C)  
@@ -92,6 +105,8 @@ A C-based terminal app to manage basketball stats.
 - Save & load from file with persistence  
 
 **Tech**: C (stdio, string.h), File I/O  
+
+Project repository:https://github.com/MustakimHF/Basketball-Player-Performance
 
 ---
 
