@@ -18,6 +18,7 @@ A full **ETL pipeline** for Twitch data:
 **Tech**: Python, Pandas, SQL, Airflow (for orchestration)  
 
 Project repository: https://github.com/MustakimHF/twitch-streaming-analytics
+
 ---
 
 ### 🎬 Content Strategy Insights (TMDB)  
