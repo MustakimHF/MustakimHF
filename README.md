@@ -17,7 +17,7 @@ A full **ETL pipeline** for Twitch data:
 
 **Tech**: Python, Pandas, SQL, Airflow (for orchestration)  
 
-Project repository:
+Project repository: https://github.com/MustakimHF/twitch-streaming-analytics
 ---
 
 ### 🎬 Content Strategy Insights (TMDB)  
@@ -29,7 +29,7 @@ Explores **viewer trends** in films & TV using the TMDB API.
 
 **Tech**: Python, Pandas, Matplotlib, Seaborn, TextBlob  
 
-Project repository:https://github.com/MustakimHF/Content-Strategy-Insights
+Project repository: https://github.com/MustakimHF/Content-Strategy-Insights
 
 ---
 
@@ -41,7 +41,7 @@ Interactive dashboards for campaign analysis.
 
 **Tech**: Python, DuckDB, Power BI, Tableau  
 
-Project repository:https://github.com/MustakimHF/Marketing-Business-Dashboards
+Project repository: https://github.com/MustakimHF/Marketing-Business-Dashboards
 
 ---
 
@@ -54,7 +54,7 @@ Simulates a **real marketing experiment** on the Olist dataset.
 
 **Tech**: Python, Pandas, Statsmodels, Seaborn, Power BI/Tableau  
 
-Project repository:https://github.com/MustakimHF/AB-Testing-OLIST
+Project repository: https://github.com/MustakimHF/AB-Testing-OLIST
 
 ---
 
@@ -68,7 +68,7 @@ Predicts **customer churn** using the Telco dataset.
 
 **Tech**: Python, Scikit-learn, Pandas, Joblib  
 
-Project repository:https://github.com/MustakimHF/telco-churn-ml
+Project repository: https://github.com/MustakimHF/telco-churn-ml
 
 ---
 
@@ -81,7 +81,7 @@ A simple **TensorFlow/Keras** neural network to classify synthetic data.
 
 **Tech**: TensorFlow, Keras, Scikit-learn, Matplotlib  
 
-Project repository:https://github.com/MustakimHF/Neural-Network
+Project repository: https://github.com/MustakimHF/Neural-Network
 
 ---
 
@@ -94,7 +94,7 @@ A **Python + Dash app** for budgeting and expense tracking.
 
 **Tech**: Python, Pandas, Dash, Plotly  
 
-Project repository:https://github.com/MustakimHF/Personal-Finance-Tracker
+Project repository: https://github.com/MustakimHF/Personal-Finance-Tracker
 
 ---
 
@@ -106,7 +106,7 @@ A C-based terminal app to manage basketball stats.
 
 **Tech**: C (stdio, string.h), File I/O  
 
-Project repository:https://github.com/MustakimHF/Basketball-Player-Performance
+Project repository: https://github.com/MustakimHF/Basketball-Player-Performance
 
 ---
 
