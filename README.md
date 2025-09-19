@@ -34,15 +34,15 @@ Project repository: https://github.com/MustakimHF/Content-Strategy-Insights
 
 ---
 
-### 📊 Marketing Business Dashboards  
-Interactive dashboards for campaign analysis.  
-- KPIs: Revenue, Conversions, ROAS, CAC, CVR  
-- Visuals: channel performance, daily conversions, segment breakdown  
-- Delivered in **Power BI + Tableau**, fed from a Python ETL pipeline  
+### 📊 Marketing Attribution & Experimentation Toolkit  
+Toolkit for marketing data analysis and experimentation.  
+- Attribution models: first-touch, last-touch, linear, time-decay  
+- Experimentation: A/B testing, conversion uplift, CAC, ROAS  
+- Dashboards: campaign performance and audience insights in **Power BI + Tableau**, powered by a Python ETL pipeline  
 
-**Tech**: Python, DuckDB, Power BI, Tableau  
+**Tech**: Python, SQL, DuckDB, Power BI, Tableau  
 
-Project repository: https://github.com/MustakimHF/Marketing-Business-Dashboards
+Project repository: https://github.com/MustakimHF/Marketing-Attribution-Experimentation
 
 ---
 
