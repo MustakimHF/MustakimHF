@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Mustakim  
 
-Electrical Engineering Student | Data Analysis, Automation and Infrastructure | June 2027 Graduation  
 
 I’m an **Electrical and Electronic Engineering student** building projects across **data analytics, automation, infrastructure finance, dashboards, and machine learning**.  
 
