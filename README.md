@@ -20,7 +20,7 @@ An **infrastructure finance model** for a simplified 50 MW solar farm.
 
 **Tech**: Excel, Financial Modelling, Project Finance, Scenario Analysis  
 
-Project repository: https://github.com/MustakimHF/solar-farm-project-finance
+Project repository: https://github.com/MustakimHF/Solar-farm-project
 
 ---
 
