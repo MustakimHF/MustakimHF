@@ -1,31 +1,75 @@
 # 👋 Hi, I’m Mustakim  
 
-Aspiring **Data Scientist / ML Engineer** with a background in engineering and hands-on projects in **machine learning, data pipelines, dashboards, and software engineering**.  
+Electrical Engineering Student | Data Analysis, Automation and Infrastructure | June 2027 Graduation  
 
-I focus on building **end-to-end workflows**: data ingestion → cleaning → modelling → BI/visualisation → reporting. My repos are structured and documented so that recruiters, engineers, and collaborators can follow my process clearly.  
+I’m an **Electrical and Electronic Engineering student** building projects across **data analytics, automation, infrastructure finance, dashboards, and machine learning**.  
+
+My work focuses on turning messy problems into structured outputs: data ingestion → cleaning → modelling → analysis → BI/visualisation → reporting. I’m especially interested in how data, engineering, and finance can support better decisions in areas like **energy infrastructure, digital infrastructure, fintech, and operations**.  
+
+My repositories are structured and documented so that recruiters, engineers, and collaborators can follow my process clearly without needing to decode a crime scene of random notebooks.  
 
 ---
 
 ## 🚀 Featured Projects  
 
+### ☀️ Solar Farm Project Finance Model  
+An **infrastructure finance model** for a simplified 50 MW solar farm.  
+- Forecasts construction costs, solar generation, revenue, opex, debt service, and investor cash flows  
+- Calculates key project finance metrics including **CFADS, DSCR, LLCR, project IRR, and equity IRR**  
+- Tests downside, base, and upside cases for capex, generation, PPA pricing, and interest rates  
+- Produces a dashboard and investment-style PDF report for lender and investor analysis  
+
+**Tech**: Excel, Financial Modelling, Project Finance, Scenario Analysis  
+
+Project repository: https://github.com/MustakimHF/solar-farm-project-finance
+
+---
+
 ### 🕹 Twitch Streaming Analytics  
 A full **ETL pipeline** for Twitch data:
-- Extracts streams + games via the Twitch API  
-- Cleans, transforms, and enriches with features (time of day, weekday, game join)  
+- Extracts streams and games via the Twitch API  
+- Cleans, transforms, and enriches with features such as time of day, weekday, and game join  
 - Loads into SQLite for querying and visualisation  
-- Includes **sanity checks** + BI-ready CSV outputs
+- Includes **sanity checks** and BI-ready CSV outputs  
 
-**Tech**: Python, Pandas, SQL, Airflow (for orchestration)  
+**Tech**: Python, Pandas, SQL, Airflow  
 
 Project repository: https://github.com/MustakimHF/twitch-streaming-analytics
 
 ---
 
+### 📊 Marketing Attribution & Experimentation Toolkit  
+Toolkit for marketing data analysis and experimentation.  
+- Builds attribution models: first-touch, last-touch, linear, and time-decay  
+- Runs A/B testing, conversion uplift analysis, CAC, and ROAS calculations  
+- Produces campaign performance dashboards in **Power BI + Tableau**  
+- Uses a Python and SQL ETL pipeline to move raw campaign data into analysis-ready outputs  
+
+**Tech**: Python, SQL, DuckDB, Power BI, Tableau, Excel  
+
+Project repository: https://github.com/MustakimHF/Marketing-Attribution-Experimentation
+
+---
+
+### 📉 Telco Customer Churn Prediction  
+Predicts **customer churn** using the Telco dataset.  
+- Preprocesses data with imputers, scaling, and one-hot encoding  
+- Trains **Logistic Regression** and **Random Forest** models  
+- Evaluates with ROC-AUC, PR-AUC, and classification reports  
+- Prevents data leakage and handles missing values  
+- Used **AI-assisted debugging** to detect issues, then validated and refined fixes manually  
+
+**Tech**: Python, Scikit-learn, Pandas, Joblib  
+
+Project repository: https://github.com/MustakimHF/telco-churn-ml
+
+---
+
 ### 🎬 Content Strategy Insights (TMDB)  
-Explores **viewer trends** in films & TV using the TMDB API.  
-- Fetches & cleans live data (popular films/TV)  
-- Enriches with release year, genre, language, sentiment (TextBlob)  
-- Analyses trends with plots (ratings over time, genre popularity)  
+Explores **viewer trends** in films and TV using the TMDB API.  
+- Fetches and cleans live data on popular films and TV shows  
+- Enriches data with release year, genre, language, and sentiment  
+- Analyses trends with plots such as ratings over time and genre popularity  
 - Generates a **stakeholder-ready Markdown report**  
 
 **Tech**: Python, Pandas, Matplotlib, Seaborn, TextBlob  
@@ -34,51 +78,25 @@ Project repository: https://github.com/MustakimHF/Content-Strategy-Insights
 
 ---
 
-### 📊 Marketing Attribution & Experimentation Toolkit  
-Toolkit for marketing data analysis and experimentation.  
-- Attribution models: first-touch, last-touch, linear, time-decay  
-- Experimentation: A/B testing, conversion uplift, CAC, ROAS  
-- Dashboards: campaign performance and audience insights in **Power BI + Tableau**, powered by a Python ETL pipeline  
-
-**Tech**: Python, SQL, DuckDB, Power BI, Tableau  
-
-Project repository: https://github.com/MustakimHF/Marketing-Attribution-Experimentation
-
----
-
 ### 🛒 E-commerce A/B Testing (Olist)  
-Simulates a **real marketing experiment** on the Olist dataset.  
+Simulates a **real marketing experiment** using the Olist dataset.  
 - Assigns customers to A/B groups  
 - Defines a conversion window  
-- Runs z-tests & confidence intervals  
+- Runs z-tests and confidence intervals  
 - Outputs CSVs for BI and visualises conversion rates  
 
-**Tech**: Python, Pandas, Statsmodels, Seaborn, Power BI/Tableau  
+**Tech**: Python, Pandas, Statsmodels, Seaborn, Power BI, Tableau  
 
 Project repository: https://github.com/MustakimHF/AB-Testing-OLIST
-
----
-
-### 📉 Telco Customer Churn Prediction (ML)  
-Predicts **customer churn** using the Telco dataset.  
-- Preprocesses with imputers, scaling, one-hot encoding  
-- Trains **Logistic Regression + Random Forest**  
-- Evaluates with ROC-AUC, PR-AUC, classification report  
-- Prevents **data leakage**, handles missing values, fixes API changes  
-- Used **TestSprite (AI-assisted debugging)** to detect issues, but all fixes were **validated and refined manually**  
-
-**Tech**: Python, Scikit-learn, Pandas, Joblib  
-
-Project repository: https://github.com/MustakimHF/telco-churn-ml
 
 ---
 
 ### 🧠 Neural Network Classifier  
 A simple **TensorFlow/Keras** neural network to classify synthetic data.  
 - Preprocesses data with standardisation  
-- Multi-layer NN with early stopping  
-- Evaluates accuracy & loss  
-- Visualises training history  
+- Uses a multi-layer neural network with early stopping  
+- Evaluates accuracy and loss  
+- Visualises model training history  
 
 **Tech**: TensorFlow, Keras, Scikit-learn, Matplotlib  
 
@@ -89,9 +107,9 @@ Project repository: https://github.com/MustakimHF/Neural-Network
 ### 💸 Personal Finance Tracker  
 A **Python + Dash app** for budgeting and expense tracking.  
 - Reads CSV transactions  
-- Groups & analyses spending vs budgets  
-- Interactive pie + line charts  
-- Alerts for overspending  
+- Groups and analyses spending against budgets  
+- Builds interactive pie and line charts  
+- Flags overspending patterns  
 
 **Tech**: Python, Pandas, Dash, Plotly  
 
@@ -99,13 +117,13 @@ Project repository: https://github.com/MustakimHF/Personal-Finance-Tracker
 
 ---
 
-### 🏀 Basketball Player Performance Analyzer (C)  
+### 🏀 Basketball Player Performance Analyzer  
 A C-based terminal app to manage basketball stats.  
-- Add, update, and compare players  
-- Compute per-game averages (PPG, RPG, etc.)  
-- Save & load from file with persistence  
+- Adds, updates, and compares players  
+- Computes per-game averages such as PPG and RPG  
+- Saves and loads player data using file persistence  
 
-**Tech**: C (stdio, string.h), File I/O  
+**Tech**: C, File I/O  
 
 Project repository: https://github.com/MustakimHF/Basketball-Player-Performance
 
@@ -114,17 +132,31 @@ Project repository: https://github.com/MustakimHF/Basketball-Player-Performance
 ## 🧰 Tech Stack  
 
 - **Languages**: Python, SQL, C  
-- **Libraries**: pandas, numpy, scikit-learn, matplotlib, seaborn, TensorFlow/Keras  
-- **Dashboards**: Power BI, Tableau, Dash/Plotly  
-- **Other**: Git, virtualenv, DuckDB, Airflow (orchestration), Joblib (model persistence)  
+- **Data & ML**: pandas, numpy, scikit-learn, TensorFlow/Keras, statsmodels  
+- **Databases & Pipelines**: SQLite, DuckDB, Airflow, ETL workflows  
+- **Dashboards**: Power BI, Tableau, Dash, Plotly  
+- **Finance & Infrastructure**: Excel financial modelling, project finance metrics, scenario analysis  
+- **Visualisation**: matplotlib, seaborn  
+- **Other**: Git, virtualenv, Docker basics, Joblib  
+
+---
+
+## 🎯 Current Focus  
+
+- Infrastructure finance and energy transition modelling  
+- Data analytics for business and operational decision-making  
+- Fintech, payments, and financial dashboards  
+- Machine learning projects with clear evaluation and documentation  
+- Building portfolio projects that connect engineering, data, and real-world decision-making  
 
 ---
 
 ## 📎 Notes  
 
-- All repos include **README.md** with clear run instructions  
-- `.env` files and raw data are excluded via `.gitignore`  
-- Projects are designed to look **real-world and recruiter-ready**  
+- All repos include **README.md** files with clear run instructions  
+- Project folders are structured for readability and reproducibility  
+- `.env` files and sensitive credentials are excluded via `.gitignore`  
+- Some projects use AI-assisted debugging or development support, but outputs are checked, edited, and explained manually  
 
 ---
 
@@ -133,4 +165,4 @@ Project repository: https://github.com/MustakimHF/Basketball-Player-Performance
 - **Email**: *mustakim.h.ferdoushi@gmail.com*  
 - **LinkedIn**: *https://www.linkedin.com/in/mustakim-hossain-ferdoushi-77ba02282/*  
 
-Open to collaboration, internships, and data challenges 🚀  
+Open to internships, collaboration, finance/data projects, and technical challenges 🚀  
